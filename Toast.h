@@ -9,5 +9,6 @@ typedef NS_ENUM(NSInteger, TimeType) {
 
 + (instancetype)makeText:(NSString *)text;
 - (void)showWithType:(TimeType)type;
+//C0
 //C1
 @end
