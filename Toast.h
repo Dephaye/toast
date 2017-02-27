@@ -12,4 +12,5 @@ typedef NS_ENUM(NSInteger, TimeType) {
 //C0
 //C1
 //C2
+//E1
 @end
