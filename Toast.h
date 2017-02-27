@@ -11,4 +11,5 @@ typedef NS_ENUM(NSInteger, TimeType) {
 - (void)showWithType:(TimeType)type;
 //C0
 //C1
+//C2
 @end
